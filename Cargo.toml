@@ -3,6 +3,7 @@ resolver = "2"
 members = [
     "flash-lso",
     "lso-to-json",
+    "sol2js",
     "web"
 ]
 
